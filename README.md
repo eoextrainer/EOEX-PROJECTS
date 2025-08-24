@@ -1,7 +1,7 @@
 ## **PROJECT | EOEX | CONTEXT | TOPIC | TITLE**
 ---
 ## **BANNER**
-![Software Project](res/img/sw-proj.jpg)
+![Software Project](res/img/hello-world.png)
 
 ---
 ## **SUMMARY**
