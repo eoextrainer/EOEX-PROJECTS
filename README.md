@@ -1,7 +1,7 @@
 ## **PROJECT | EOEX | CONTEXT | TOPIC | TITLE**
 ---
 ## **BANNER**
-![Uploading sw-proj.jpg…]()
+![image info](./pictures/sw-proj.jpg)
 
 ---
 ## **SUMMARY**
